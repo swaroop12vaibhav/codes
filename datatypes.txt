@@ -1,0 +1,18 @@
+basic data typers in python...
+
+	1.integer
+	an integer stores all numeric values except decimal no.
+	it also have a similar datatype termed  as long which is used to stores values which exceeds integer limit
+	 ex.100
+	
+	2.float
+	a float is a datatype which stores decimal no.
+	ex.34.65
+	
+	3.boolean
+	boolean is a datatype which gives output in true and false
+	they work through the code and if the condition matches it gives true or if it doesn't it gives false.
+	 
+	4.string
+	A string is a collection of one or more characters put in a single quote, double-quote
+	ex"my name is vaibhav"
